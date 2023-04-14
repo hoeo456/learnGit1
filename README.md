@@ -3,3 +3,4 @@
 hello world!
 
 this is git repo to learns
+python note
